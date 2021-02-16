@@ -1,0 +1,8 @@
+{
+<<<<<<< HEAD
+    "python.pythonPath": "C:\\Users\\user\\.msvscode.hdinsight\\hdinsightJupyter\\Scripts\\python.exe",
+    "jupyter.jupyterLaunchTimeout": 240000
+=======
+    "python.pythonPath": "/Users/mustafaaliaykon/Desktop/airflow_learning/airflow-venv/bin/python3.8"
+>>>>>>> 160ccf4f54673a662e390c00b3ae238e868f2f54
+}
